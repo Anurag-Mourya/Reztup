@@ -63,7 +63,7 @@ const Header = () => {
                                     <input type="text" className='h-[25px] w-[100px] outline-none placeholder:bold placeholder-gray-900' placeholder='Date / Time' />
                                     <span className='border-gray-300 border ml-4 h-[25px] mr-6'></span>
                                     <input type="text" className='h-[25px] w-[100px] text_thin placeholder:bold placeholder-gray-400 outline-none' placeholder='Add guests' />
-                                    <button className="rounded-lg bg-red-500 text-white w-12 h-7 btn_res"><FontAwesomeIcon icon={faSearch} /></button>
+                                    <button className="rounded-lg bg-red-500 text-white w-20 btn_res"><FontAwesomeIcon icon={faSearch} /></button>
                                 </div>
 
                                 <button className="shadow-sm rounded-lg relative show_text py-[12px] px-3" style={{ border: "1px solid #ff000047" }}>
