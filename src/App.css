@@ -132,16 +132,16 @@
 }
 
 .border_hover:hover {
-  border-bottom: 3px solid red;
+  border-bottom: 1px solid red;
 }
 
 .border_hover {
-  border: 3px solid white;
+  border: 1px solid white;
   font-weight: 700;
 }
 
 .selected_border {
-  border-bottom: 3px solid red;
+  border-bottom: 1px solid red;
 }
 
 ::placeholder {

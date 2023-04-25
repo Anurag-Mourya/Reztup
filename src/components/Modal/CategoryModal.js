@@ -24,72 +24,72 @@ const CategoryModal = () => {
             </Modal.Header>
             <Modal.Body className=''>
                 <div className="flex justify-around flex-wrap">
-                    <div className='text-center border_hover selected_border cursor-pointer'>
-                        <FontAwesomeIcon icon={faFilm} className='text-slate-400' />
-                        <p className='text-[12px]'>All Category</p>
+                    <div className='text-center border_hover mb-4 selected_border cursor-pointer'>
+                        <img src="../images/icon (10).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>All Category</p>
                     </div>
-                    <div className='text-center border_hover  cursor-pointer'>
-                        <FontAwesomeIcon icon={faImage} className='text-slate-400' />
-                        <p className='text-[12px]'>Amezing Views</p>
+                    <div className='text-center border_hover mb-4  cursor-pointer'>
+                        <img src="../images/icon (10).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Amezing Views</p>
                     </div>
-                    <div className='text-center border_hover  cursor-pointer '>
-                        <FontAwesomeIcon icon={faHouse} className='text-slate-400' />
-                        <p className='text-[12px]'>Farms</p>
+                    <div className='text-center border_hover mb-4  cursor-pointer '>
+                        <img src="../images/icon (9).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Farms</p>
                     </div>
-                    <div className='text-center border_hover cursor-pointer'>
-                        <FontAwesomeIcon icon={faPlay} className='text-slate-400' />
-                        <p className='text-[12px]'>Play</p>
+                    <div className='text-center border_hover mb-4 cursor-pointer'>
+                        <img src="../images/icon (7).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Play</p>
                     </div>
-                    <div className='text-center border_hover cursor-pointer'>
-                        <FontAwesomeIcon icon={faSeedling} className='text-slate-400' />
-                        <p className='text-[12px]'>Treehouse</p>
+                    <div className='text-center border_hover mb-4 cursor-pointer'>
+                        <img src="../images/icon (8).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Treehouse</p>
                     </div>
                 </div>
 
                 <div className="flex justify-around flex-wrap">
-                    <div className='text-center border_hover cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faPooBolt} className='text-slate-400' />
-                        <p className='text-[12px]'>Amezing Pools</p>
+                    <div className='text-center border_hover mb-4 cursor-pointer mt-4'>
+                        <img src="../images/icon (6).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Amezing Pools</p>
                     </div>
-                    <div className='text-center border_hover  cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faPooBolt} className='text-slate-400' />
-                        <p className='text-[12px]'>Beach Font</p>
+                    <div className='text-center border_hover mb-4  cursor-pointer mt-4'>
+                        <img src="../images/icon (6).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Beach Font</p>
                     </div>
-                    <div className='text-center border_hover  cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faWaterLadder} className='text-slate-400' />
-                        <p className='text-[12px]'>Lack Front</p>
+                    <div className='text-center border_hover mb-4  cursor-pointer mt-4'>
+                        <img src="../images/icon (5).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Lack Front</p>
                     </div>
-                    <div className='text-center border_hover cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faPooBolt} className='text-slate-400' />
-                        <p className='text-[12px]'>Cabins</p>
+                    <div className='text-center border_hover mb-4 cursor-pointer mt-4'>
+                        <img src="../images/icon (4).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Cabins</p>
                     </div>
-                    <div className='text-center border_hover cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faCannabis} className='text-slate-400' />
-                        <p className='text-[12px]'>Countryside</p>
+                    <div className='text-center border_hover mb-4 cursor-pointer mt-4'>
+                        <img src="../images/icon (6).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Countryside</p>
                     </div>
                 </div>
 
 
                 <div className="flex justify-around flex-wrap">
-                    <div className='text-center border_hover cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faMoneyBill} className='text-slate-400' />
-                        <p className='text-[12px]'>Luxury</p>
+                    <div className='text-center border_hover mb-4 cursor-pointer mt-4'>
+                        <img src="../images/icon (3).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Luxury</p>
                     </div>
-                    <div className='text-center border_hover  cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faNewspaper} className='text-slate-400' />
-                        <p className='text-[12px]'>Tranding</p>
+                    <div className='text-center border_hover mb-4  cursor-pointer mt-4'>
+                        <img src="../images/icon (2).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Tranding</p>
                     </div>
-                    <div className='text-center border_hover  cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faShip} className='text-slate-400' />
-                        <p className='text-[12px]'>Islands</p>
+                    <div className='text-center border_hover mb-4  cursor-pointer mt-4'>
+                        <img src="../images/icon (1).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Islands</p>
                     </div>
-                    <div className='text-center border_hover cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faPooBolt} className='text-slate-400' />
-                        <p className='text-[12px]'>Disigner Homes</p>
+                    <div className='text-center border_hover mb-4 cursor-pointer mt-4'>
+                        <img src="../images/icon (6).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Disigner Homes</p>
                     </div>
-                    <div className='text-center border_hover cursor-pointer mt-4'>
-                        <FontAwesomeIcon icon={faPlay} className='text-slate-400' />
-                        <p className='text-[12px]'>Historical Homes</p>
+                    <div className='text-center border_hover mb-4 cursor-pointer mt-4'>
+                        <img src="../images/icon (6).png" alt="" className="m-auto" />
+                        <p className='text-[12px] mb-0'>Historical Homes</p>
                     </div>
                 </div>
             </Modal.Body>
